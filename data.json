@@ -1,0 +1,82 @@
+{
+  "1": {
+    "国語": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=1&subject_id=1",
+    "算数": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=1&subject_id=2"
+  },
+  "2": {
+    "国語": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=2&subject_id=1",
+    "算数": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=2&subject_id=2"
+  },
+  "3": {
+    "国語": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=3&subject_id=1",
+    "算数": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=3&subject_id=2",
+    "社会": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=3&subject_id=3",
+    "理科": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=3&subject_id=4"
+  },
+  "4": {
+    "国語": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=4&subject_id=1",
+    "算数": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=4&subject_id=2",
+    "社会": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=4&subject_id=3",
+    "理科": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=4&subject_id=4"
+  },
+  "5": {
+    "国語": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=5&subject_id=1",
+    "算数": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=5&subject_id=2",
+    "社会": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=5&subject_id=3",
+    "理科": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=5&subject_id=4",
+    "英語": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=5&subject_id=5"
+  },
+  "6": {
+    "国語": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=6&subject_id=1",
+    "算数": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=6&subject_id=2",
+    "社会": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=6&subject_id=3",
+    "理科": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=6&subject_id=4",
+    "英語": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=6&subject_id=5"
+  },
+  "7": {
+    "国語": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=7&subject_id=11",
+    "数学": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=7&subject_id=12",
+    "地理": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=7&subject_id=13",
+    "歴史": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=7&subject_id=14",
+    "英語": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=7&subject_id=18",
+    "理科": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=7&subject_id=20",
+    "保健": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=7&subject_id=101",
+    "体育": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=7&subject_id=102",
+    "技術": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=7&subject_id=103",
+    "家庭": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=7&subject_id=104",
+    "音楽": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=7&subject_id=105",
+    "美術": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=7&subject_id=106",
+    "読解スキル": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=7&subject_id=201"
+  },
+  "8": {
+    "国語": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=8&subject_id=11",
+    "数学": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=8&subject_id=12",
+    "地理": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=8&subject_id=13",
+    "歴史": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=8&subject_id=14",
+    "英語": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=8&subject_id=18",
+    "理科": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=8&subject_id=20",
+    "保健": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=8&subject_id=101",
+    "体育": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=8&subject_id=102",
+    "技術": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=8&subject_id=103",
+    "家庭": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=8&subject_id=104",
+    "音楽": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=8&subject_id=105",
+    "美術": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=8&subject_id=106",
+    "読解スキル": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=8&subject_id=201"
+  },
+  "9": {
+    "国語": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=9&subject_id=11",
+    "数学": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=9&subject_id=12",
+    "地理": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=9&subject_id=13",
+    "歴史": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=9&subject_id=14",
+    "英語": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=9&subject_id=18",
+    "理科": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=9&subject_id=20",
+    "保健": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=9&subject_id=101",
+    "体育": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=9&subject_id=102",
+    "技術": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=9&subject_id=103",
+    "家庭": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=9&subject_id=104",
+    "音楽": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=9&subject_id=105",
+    "美術": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=9&subject_id=106",
+    "読解スキル": "https://ela.education.ne.jp/teachers/teaching_items/search_units?grade_id=9&subject_id=201"
+  }
+}
+
