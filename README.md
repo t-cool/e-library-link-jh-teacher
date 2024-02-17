@@ -1,4 +1,4 @@
-# eライブラリ Links - 中学教師用
+# eライブラリ Links - 教科担任用
 
 ![screencast.gif](./screencast.gif)
 
